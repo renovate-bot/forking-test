@@ -1,6 +1,6 @@
 {
   "name": "forking-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "devDependencies": {
     "chalk": "^2.0.0"
   }
